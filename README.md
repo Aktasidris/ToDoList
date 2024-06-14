@@ -1,7 +1,9 @@
-json serveri projeji önceden çalıştırın komut:
+##db.json dosyasını çalıştırmak icin komut
+
 ```bash
    json-server --watch db.json
 ```
 
-komutu girilir ve Proje başlatılır 
-db.json dosyası veri tabnında tutulacak bilgileri saklar.
+##db.json hakkında 
+-komutu girilir ve Proje başlatılır 
+-db.json dosyası veri tabani olarak kullanılacak 
