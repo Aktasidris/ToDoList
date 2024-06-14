@@ -1,3 +1,7 @@
-json.db start komutu
+json serveri projeji önceden çalıştırın komut:
+```bash
+   json-server --watch db.json
+```
 
-```bash kson.db watch```
+komutu girilir ve Proje başlatılır 
+db.json dosyası veri tabnında tutulacak bilgileri saklar.
